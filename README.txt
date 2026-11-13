@@ -2,7 +2,7 @@ VENTUREX PICKER - VERCEL
 ========================
 index.html, style.css, app.js  = the website
 api/portal.js                  = tiny server function (login, live counts, max 15 per track)
-api/_teams.js                  = the 51 team access codes (kept on the server, not visible to teams)
+api/_teams.js                  = the 54 team access codes (kept on the server, not visible to teams)
 
 DEPLOY (about 5 minutes)
 1. github.com -> New repository -> "uploading an existing file" -> drag ALL files and the api folder in -> Commit.

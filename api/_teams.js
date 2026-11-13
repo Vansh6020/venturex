@@ -1,4 +1,4 @@
-// code -> team. Generated from teams.json (51 teams). Underscore = not a public URL.
+// code -> team. 54 teams. Underscore = not a public URL.
 module.exports = {
  "KHCZZY": {
   "id": 1,
@@ -254,5 +254,20 @@ module.exports = {
   "id": 51,
   "name": "PEAKY BLINDERS",
   "college": "Punjab Engineering College"
+ },
+ "8BS76Q": {
+  "id": 52,
+  "name": "DS pariwar",
+  "college": "Punjab Engineering College"
+ },
+ "WFPKLR": {
+  "id": 53,
+  "name": "Trouble Shooters",
+  "college": "Mix(Chitkara+Thapar)"
+ },
+ "ZJ476D": {
+  "id": 54,
+  "name": "Golgappe",
+  "college": "Chitkara"
  }
 };
